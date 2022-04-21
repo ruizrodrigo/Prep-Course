@@ -1,0 +1,19 @@
+// 1.Las variables son palabras claves de javascript que nos 
+permiten asignarles un valor para ser utilizado en el 
+futuro
+
+// 2. Las strings son un tipo de dato que describen una
+cadena. Pueden ser tanto palabras como numeros
+
+// 3. Las funciones nos permiten ejecutar codigo de forma
+ordenada y de esta forma ahorrar tiempo al no tener que
+codear repetidas veces lo mismo. Los argumentos son los valores
+que reciben y el return es una declaracion que al ejecutarla
+corta cualquier lectura de codigo posterior
+
+// 4. La declaracion if es un condicional que nos permite ejecutar
+codigo solo en caso de que la condicion se cumpla.
+
+// 5. Los valores booleanos son resultado de una comparacion entre
+dos datos que nos arroja el valor true (verdadero) en caso de coincidir
+o false (falso) en caso contrario
