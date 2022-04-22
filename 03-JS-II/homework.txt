@@ -1,0 +1,5 @@
+// 1. El for es un tipo de bucle repetitivo que nos permitira realizar un codigo mas limpio y entendible, haciendo que
+evitemos escribir repetidas veces el mismo.
+
+// 2. `&&`, `||`, `!` son operadores logicos que nos arrojaran resultados booleanos dependiendo los datos ingresados. El && siginifica "y", el || es "O"
+y el ! es "No" (es decir, lo contrario). Nos permiten separar condicionales dentro de un statement.
