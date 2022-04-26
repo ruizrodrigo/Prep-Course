@@ -1,0 +1,4 @@
+Array otro tipo de datos que nos permite crear un listado de elementos,
+al cual podremos ingresar posteriormente conociendo el indice, es decir,
+la posicion del elemento dentro del listado. Es importante recordar,
+que su posicionamiento comienza desde el 0.
