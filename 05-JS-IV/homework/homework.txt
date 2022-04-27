@@ -1,0 +1,17 @@
+// 1- Objetos: Es una coleccion de propiedades que definimos
+para acceder posteriormente, dando una estructura que debe respetarse
+para evitar confusiones entre el equipo de desarrollo
+
+// 2- Propiedades: Son las variables que definimos para cada objeto. 
+Pueden ser llamadas mediante palabras claves(keywords) 
+
+// 3- Métodos: Los metodos son las funciones dentro de un objeto, llamados
+asi por una asignacion antigua que perduró entre los programadores
+
+// 4- Bucle `for…in`: Estructura creada por javascript para realizar iteraciones
+dentro de un objeto, ya que al no tener indice no podria utilizarse el for
+tradicional.
+
+// 5- Notación de puntos vs notación de corchetes : Ambas metodologias son utilizadas
+para acceder a los valores de una propiedad en un objeto. La diferencia es que en la notacion
+de corchetes, deberemos colocar la propiedad dentro de '' para obtener el valor.
