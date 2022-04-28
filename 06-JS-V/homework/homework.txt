@@ -1,0 +1,9 @@
+// 1-`prototype` = es una propiedad que tienen las clases que permiten almacenar metodos sin ocupar tanto espacio
+en la memoria, haciendo que el programa sea mucho mas rapido y fluido. Los metodos dentro del prototipo son 
+accesibles para todas las propiedades de la clase, un ejemplo claro es el array, que dentro de su prototipo
+contiene los metodos que utilizamos frecuentemente como .length
+
+
+// 2- _Constructors_ (de Clases) = son estructuras de tipo plantilla que nos permiten agrupar propiedades sin caer
+en la repeticion de codigo constante, ya que varios objetos que comparten las mismas propiedades se pueden reducir en
+una unica funcion constructora (o clase)
