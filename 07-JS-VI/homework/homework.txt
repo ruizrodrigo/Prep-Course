@@ -1,0 +1,2 @@
+// 1 - Callback = 
+Se trata de una funcion que es pasada como argumento de otra funcion.
