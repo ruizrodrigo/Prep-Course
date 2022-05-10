@@ -1,18 +1,53 @@
+*{
+    list-style-type: none;
+    background-repeat: no-repeat;
+}
+
 img {
     width: 400px;
 }
 h1 {
-    color: aqua;
+    color: red;
 }
-.thirdDiv {
-    height: 600px;
-    width: 500px;
-    background-color: blue;
-    padding: 50px;
-    border: 1px red;
+body {
+    padding: 30px;
+    background-image: url("https://previews.123rf.com/images/volyk/volyk1805/volyk180500068/101000181-sin-patr%C3%B3n-de-pizza-aislado-en-el-fondo-blanco.jpg");
+    background-size: cover;
 }
 
-.spanId {
+#divParent {
+    display: -webkit-flex;
+    display:         flex;
+    flex-direction: column;
+    -webkit-align-items: center;
+    align-items: center;
+}
+
+#spanId {
     font-size: 18px;
-    margin: 50px;
+    margin: 30px;
+    background-color: white;
+}
+
+.divClass {
+    display: -webkit-flex;
+    display: flex;
+    flex-direction: column;
+    -webkit-align-items: center;
+    align-items: center;
+}
+
+a {
+    font-size: 20px;
+    margin-bottom: 10px;
+    background-color: white;
+}
+
+#thirdDiv {
+    margin-top: 10px;
+    background-color: white;
+    height: 600px;
+    width: 500px;
+    padding: 50px;
+    border: 1px solid red;
 }

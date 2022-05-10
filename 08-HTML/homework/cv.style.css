@@ -1,0 +1,41 @@
+body {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    max-width: 800px;
+}
+
+h1 {
+    margin: 0;
+    margin-bottom: 50px;
+}
+img {
+    width: 200px;
+    height: 200px;
+    float: right;
+    margin-left: 10px;
+}
+
+#first {
+    justify-items: center;
+    border-top: none;
+    padding-right: 0;
+}
+
+div {
+    border-top: 1px solid black;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#nuleDiv {
+    border-top: none;
+}
+
+ul {
+    list-style-type: square;
+}
+
+#aboutMe {
+    padding-inline: 20px;
+}
